@@ -22,8 +22,13 @@ Features include:
 
 ## Usage
 
-- `[amenities limit=10]` — Lists up to 10 amenities with images and names for the current accommodation.
+- `[amenities]` — Lists up to 10 amenities with images and names for the current accommodation.
 - `[amenities_tree]` — Displays amenities in a hierarchical tree view with images and names.
+![Screenshot 1](https://raw.githubusercontent.com/skazgr/mphb-amenities-extended/main/Screenshot_1.png)  
+*Amenities list displayed on front-end [amenities] *
+
+![Screenshot 2](https://raw.githubusercontent.com/skazgr/mphb-amenities-extended/main/Screenshot_2.png)  
+*Amenities list displayed on front-end [amenities_tree]*
 
 ## Frequently Asked Questions
 
